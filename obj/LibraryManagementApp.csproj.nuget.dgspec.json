@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\LibraryManagementApp\\LibraryManagementApp.csproj": {}
+    "C:\\Users\\janic\\Desktop\\LibraryManagementApp\\LibraryManagementApp.csproj": {}
   },
   "projects": {
-    "C:\\C#\\LibraryManagementApp\\LibraryManagementApp.csproj": {
+    "C:\\Users\\janic\\Desktop\\LibraryManagementApp\\LibraryManagementApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\LibraryManagementApp\\LibraryManagementApp.csproj",
+        "projectUniqueName": "C:\\Users\\janic\\Desktop\\LibraryManagementApp\\LibraryManagementApp.csproj",
         "projectName": "LibraryManagementApp",
-        "projectPath": "C:\\C#\\LibraryManagementApp\\LibraryManagementApp.csproj",
+        "projectPath": "C:\\Users\\janic\\Desktop\\LibraryManagementApp\\LibraryManagementApp.csproj",
         "packagesPath": "C:\\Users\\janic\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\LibraryManagementApp\\obj\\",
+        "outputPath": "C:\\Users\\janic\\Desktop\\LibraryManagementApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
